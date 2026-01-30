@@ -1,5 +1,5 @@
 {
-  "id": "memos-lifecycle",
+  "id": "openclaw-memos-lifecycle-plugin",
   "name": "MemOS Lifecycle",
   "description": "Pre-loads memory context, auto-saves tool traces",
   "version": "1.0.0",
