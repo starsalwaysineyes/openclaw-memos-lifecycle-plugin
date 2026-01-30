@@ -1,0 +1,8 @@
+{
+  "id": "memos-lifecycle",
+  "name": "MemOS Lifecycle",
+  "description": "Pre-loads memory context, auto-saves tool traces",
+  "version": "1.0.0",
+  "kind": "lifecycle",
+  "main": "./index.js"
+}
