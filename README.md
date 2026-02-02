@@ -11,7 +11,7 @@ OpenClaw lifecycle plugin for MemOS - pre-fetches context and auto-saves tool tr
 ## Installation
 
 ```bash
-openclaw plugins install github:anatolykoptev/openclaw-memos-lifecycle-plugin
+openclaw plugins install github:starsalwaysineyes/openclaw-memos-lifecycle-plugin
 ```
 
 ## Configuration
