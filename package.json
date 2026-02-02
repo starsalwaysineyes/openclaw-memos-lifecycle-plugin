@@ -13,7 +13,7 @@
     "lifecycle",
     "plugin"
   ],
-  "openclaw": {
+  "clawdbot": {
     "extensions": ["./index.js"]
   }
 }
